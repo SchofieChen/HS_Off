@@ -1,0 +1,15 @@
+INFO  2018/11/02 15:01:39----- Program----- frmMain_Load -----Application Start
+INFO  2018/11/02 15:01:39----- Program----- frmMain_Load -----Application Start
+INFO  2018/11/02 15:01:43----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/11/02 15:01:43----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+INFO  2018/11/02 15:01:48----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+ERROR 2018/11/02 15:01:54----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/11/02 15:01:56----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/11/02 15:05:38----- Program----- frmMain_Load -----Application Start
+INFO  2018/11/02 15:05:45----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/11/02 15:05:45----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+INFO  2018/11/02 15:05:45----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+ERROR 2018/11/02 15:05:50----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/11/02 15:05:53----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/11/02 15:07:13----- Program----- frmMain_Load -----Application Start
+INFO  2018/11/02 15:17:41----- Program----- frmMain_Load -----Application Start

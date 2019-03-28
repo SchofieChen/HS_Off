@@ -1,0 +1,83 @@
+INFO  2018/04/17 09:15:54----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 11:21:39----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 11:23:35----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:23:35----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:23:35----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:23:35----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 11:23:49----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 11:24:02----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:24:02----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:24:02----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:24:02----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 11:24:34----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:35----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:36----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:37----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:38----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:39----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:24:40----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:26:03----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 11:26:04----- Program----- ResetGraphBtn_Click -----Reset All Graph.
+INFO  2018/04/17 11:26:21----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:26:21----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:26:21----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:26:21----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 11:26:28----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 11:26:38----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:26:38----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:26:38----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:26:38----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+ERROR 2018/04/17 11:26:46----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/04/17 11:26:55----- Program----- ResetGraphBtn_Click -----Reset All Graph.
+INFO  2018/04/17 11:27:00----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:01----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:01----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:03----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:04----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:05----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:06----- Program----- CreateTimeGraph -----Start store raw data
+ERROR 2018/04/17 11:27:07----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/04/17 11:27:08----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:09----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:10----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:11----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:27----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:28----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:29----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:27:30----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 11:27:43----- Program----- ResetGraphBtn_Click -----Reset All Graph.
+INFO  2018/04/17 11:29:58----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:29:58----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:29:58----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:29:58----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 11:30:13----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:14----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:15----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:16----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:17----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:18----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:19----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:20----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:21----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:30:24----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 11:32:24----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 11:34:15----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 11:34:38----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 11:34:38----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 11:34:38----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 11:34:38----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 11:34:39----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:34:41----- Program----- CreateTimeGraph -----Start store raw data
+ERROR 2018/04/17 11:34:41----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/04/17 11:34:42----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:34:43----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/17 11:34:43----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/17 18:54:49----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 18:55:51----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 19:09:17----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 19:11:35----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/17 19:11:41----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/17 19:11:42----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/17 19:11:42----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/17 19:11:42----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/17 19:11:44----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.

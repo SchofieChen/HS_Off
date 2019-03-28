@@ -1,0 +1,5 @@
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Release\Interface_HSAS.exe.config
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Release\Interface_HSAS.frminterface.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Release\Interface_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Release\Interface_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Release\Interface_HSAS.exe.licenses

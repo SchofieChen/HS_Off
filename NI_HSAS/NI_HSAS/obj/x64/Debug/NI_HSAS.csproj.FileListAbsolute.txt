@@ -1,0 +1,6 @@
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.frmfft.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.frmMain.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.frmSplashScreen.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\NI_HSAS\NI_HSAS\obj\x64\Debug\NI_HSAS.exe.licenses

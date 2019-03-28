@@ -1,0 +1,16 @@
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\bin\Release\mathffttest.exe.config
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.csprojResolveAssemblyReference.cache
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.frmfft.resources
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.frmMain.resources
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.frmSplashScreen.resources
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\Vibration_FFT_zedgraph\mathffttest\obj\Release\mathffttest.exe.licenses
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\bin\Release\mathffttest.exe.config
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.csprojResolveAssemblyReference.cache
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.frmfft.resources
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.frmMain.resources
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.frmSplashScreen.resources
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\Advantech_HSAS\mathffttest\obj\Release\mathffttest.exe.licenses

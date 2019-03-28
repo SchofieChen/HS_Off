@@ -1,0 +1,211 @@
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe.licenses
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csprojResolveAssemblyReference.cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe.config
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ZedGraph.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Automation.BDaq4.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\log4net.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Numerics.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.Common.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.frminterface.resources
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe.config
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.pdb
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csprojResolveAssemblyReference.cache
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.frminterface.resources
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.Properties.Resources.resources
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe.licenses
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.pdb
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.exe
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.exe
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ZedGraph.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Automation.BDaq4.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\log4net.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Numerics.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.Common.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.pdb
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OOXML.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Filtering.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Filtering.xml
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe.manifest
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe.manifest
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.application
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.application
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe.config
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe.manifest
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.application
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.exe
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Interface_HSAS.pdb
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Filtering.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ZedGraph.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.DataAccess.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OOXML.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Automation.BDaq4.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\log4net.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Numerics.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.Common.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Xpo.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.CodeParser.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\Advantech_HSAS.pdb
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\NI_HSAS.pdb
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\MathNet.Filtering.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Xpo.v17.2.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csprojResolveAssemblyReference.cache
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.frminterface.resources
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.Properties.Resources.resources
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.csproj.GenerateResource.Cache
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe.licenses
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe.manifest
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.application
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.exe
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\obj\Debug\Interface_HSAS.pdb
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\DevExpress.DataAccess.v17.2.xml
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\HSAS Interface\HSAS_Interface\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll

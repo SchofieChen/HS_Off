@@ -1,0 +1,9 @@
+INFO  2018/05/17 16:56:12----- Program----- frmMain_Load -----Application Start
+INFO  2018/05/17 16:56:43----- Program----- frmMain_Load -----Application Start
+INFO  2018/05/17 16:56:52----- Program----- frmMain_Load -----Application Start
+INFO  2018/05/17 16:56:57----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/05/17 16:56:57----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/05/17 16:56:57----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/05/17 16:56:57----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/05/17 16:57:00----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/05/17 16:57:01----- Program----- ResetGraphBtn_Click -----Reset All Graph.

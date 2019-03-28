@@ -1,0 +1,19 @@
+INFO  2018/05/04 16:24:27----- Program----- frmMain_Load -----Application Start
+INFO  2018/05/04 16:24:46----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+ERROR 2018/05/04 16:24:46----- Program----- StartAcquisitionBtn_Click -----Start acquisition failed---The device is not available
+INFO  2018/05/04 16:24:54----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/05/04 16:24:54----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/05/04 16:24:54----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/05/04 16:24:54----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+ERROR 2018/05/04 16:25:00----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+ERROR 2018/05/04 16:25:14----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/05/04 16:25:42----- Program----- frmMain_Load -----Application Start
+INFO  2018/05/04 16:25:54----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/05/04 16:25:54----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/05/04 16:25:54----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/05/04 16:25:54----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/05/04 16:25:56----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/05/04 16:25:57----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/05/04 16:25:58----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/05/04 16:25:59----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/05/04 16:26:00----- Program----- CreateTimeGraph -----Start store raw data

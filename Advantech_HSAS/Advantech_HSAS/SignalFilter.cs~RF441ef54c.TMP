@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MathNet.Filtering;
+using MathNet.Filtering.FIR;
+
+namespace Advantech_HSAS
+{
+    class SignalFilter
+    {
+        private int _sampling;
+        private int _low_cutoff_;
+        private int _high_cutoff_;
+
+        public double[] Bandpassfilter(double[] data, int sampling, int lowcutoff, int highcutoff)
+        {
+            this._sampling = sampling;
+            this._low_cutoff_ = lowcutoff;
+            this._high_cutoff_ = highcutoff;
+            var bandpassnarrow = OnlineFirFilter.CreateBandpass(ImpulseResponse.Finite, sampling, _low_cutoff_, _high_cutoff_,10);
+            data = bandpassnarrow.ProcessSamples(data);
+
+            return data;
+        }
+
+    }
+}

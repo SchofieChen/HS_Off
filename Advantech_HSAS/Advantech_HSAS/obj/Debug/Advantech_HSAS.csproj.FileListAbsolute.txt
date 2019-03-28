@@ -1,0 +1,217 @@
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.exe.config
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.exe
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\log4net.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Numerics.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\NPOI.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\NPOI.OOXML.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\ZedGraph.dll
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\log4net.xml
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Numerics.xml
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\bin\Debug\NPOI.xml
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csproj.Advantech_HSAS.exe.config
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\mathffttest.frmfft.resources
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\mathffttest.frmMain.resources
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\mathffttest.frmSplashScreen.resources
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.exe.licenses
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.exe
+C:\Users\00047393\Desktop\Project\vibration Project\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ZedGraph.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csprojResolveAssemblyReference.cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmfft.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmMain.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmSplashScreen.resources
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.exe.config
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.exe
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Automation.BDaq4.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ZedGraph.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csprojResolveAssemblyReference.cache
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmfft.resources
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmMain.resources
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmSplashScreen.resources
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.Properties.Resources.resources
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.exe.licenses
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.exe
+C:\Users\00047393\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.pdb
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Filtering.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Filtering.xml
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.dll.config
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.dll
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.dll.licenses
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.dll.config
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\Advantech_HSAS.pdb
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.DataAccess.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Filtering.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ZedGraph.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Xpo.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.CodeParser.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.DataAccess.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\MathNet.Filtering.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Xpo.v17.2.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csprojResolveAssemblyReference.cache
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmfft.resources
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmMain.resources
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.frmSplashScreen.resources
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.Properties.Resources.resources
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.csproj.GenerateResource.Cache
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.dll.licenses
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.dll
+D:\Source Code\George\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Debug\Advantech_HSAS.pdb

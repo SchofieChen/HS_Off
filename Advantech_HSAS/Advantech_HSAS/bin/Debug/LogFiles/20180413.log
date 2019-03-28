@@ -1,0 +1,67 @@
+INFO  2018/04/13 13:20:57----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:21:00----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+ERROR 2018/04/13 13:21:00----- Program----- StartAcquisitionBtn_Click -----Start acquisition failed---The device is not available
+INFO  2018/04/13 13:21:05----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/13 13:21:05----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/13 13:21:05----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/13 13:21:05----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/13 13:21:11----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/13 13:21:16----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:21:18----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:22:38----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:29:18----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:35:30----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:35:33----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:37:14----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:42:22----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:42:27----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/13 13:42:27----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/13 13:42:27----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/13 13:42:27----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/13 13:42:31----- Program----- StopAcquisitionBtn_Click -----Stop to Data acquisition.
+INFO  2018/04/13 13:46:02----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 13:46:07----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/13 13:46:07----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/13 13:46:07----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/13 13:46:07----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/13 13:46:10----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:12----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:12----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:13----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:15----- Program----- CreateTimeGraph -----Start store raw data
+ERROR 2018/04/13 13:46:17----- Program----- waveformAiCtrl_Overrun -----Data Overrun
+INFO  2018/04/13 13:46:17----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:17----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:18----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:19----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:20----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:21----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:22----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:23----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:24----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:25----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:26----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:27----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:28----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:29----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:30----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:31----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:32----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:33----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:34----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:46:35----- Program----- CreateTimeGraph -----Start store raw data
+INFO  2018/04/13 13:48:17----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 15:09:15----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 15:11:29----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 15:11:32----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+ERROR 2018/04/13 15:11:33----- Program----- StartAcquisitionBtn_Click -----Start acquisition failed---The device is not available
+INFO  2018/04/13 15:11:37----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/13 15:11:37----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/13 15:11:37----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/13 15:11:37----- Program----- StartAcquisitionBtn_Click -----Start Data Collection
+INFO  2018/04/13 15:17:36----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 15:26:35----- Program----- frmMain_Load -----Application Start
+INFO  2018/04/13 15:26:45----- Program----- StartAcquisitionBtn_Click -----Starts to Data acquisition.
+INFO  2018/04/13 15:26:45----- Program----- StartAcquisitionBtn_Click -----Load DAQ parameter
+ERROR 2018/04/13 15:26:45----- Program----- StartAcquisitionBtn_Click -----Faile to Load DAQ parameter message is---ErrorPropNotSpted
+INFO  2018/04/13 15:26:45----- Program----- StartAcquisitionBtn_Click -----Start Data Collection

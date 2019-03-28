@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ZedGraph;
+
+namespace Advantech_HSAS
+{
+    interface DrawInterface
+    {
+       
+        List<double[]> DrawChart(ZedGraphControl zgc, double[] sectionBuffers);
+  
+    }
+}

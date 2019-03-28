@@ -1,0 +1,7 @@
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.csprojResolveAssemblyReference.cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.frmfft.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.frmMain.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.frmSplashScreen.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.Properties.Resources.resources
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.csproj.GenerateResource.Cache
+C:\Users\00047393\Desktop\Project\vibration Project\HSAS_Integration\Advantech_HSAS\Advantech_HSAS\obj\Release\Advantech_HSAS.exe.licenses
